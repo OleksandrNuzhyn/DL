@@ -1,3 +1,4 @@
 *.keras
 ted_hrlr_translate_pt_en_converter_extracted
 *.h5
+semantic_search_model
